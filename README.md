@@ -1,4 +1,4 @@
-jsstudy
+스터디
 =======
 
 Javascript study
@@ -31,4 +31,4 @@ function(){
 }
 ```
  
-[link](http://www.google.com)
+[link](http://www.naver.com)
